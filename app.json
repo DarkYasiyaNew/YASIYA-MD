@@ -5,7 +5,7 @@
   "keywords": ["whatsapp user bot", "user bot", "nodejs", "bot", "whatsapp bot", "multi device", "yasiya-md"],
   "success_url": "/",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {YASIYA-MD~tMglVI6Y#GCPhL4OEyhI2Is4ddHgd2LuFzfty2b83JPpTHEO9YcM
       "description": "Put the session-id here.",
       "required": true
     }
